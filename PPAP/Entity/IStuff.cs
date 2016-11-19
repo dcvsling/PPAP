@@ -10,15 +10,6 @@
     }
 
     /// <summary>
-    /// a stuff
-    /// </summary>
-    /// <typeparam name="TStuff"></typeparam>
-    public interface IStuff<TStuff> :IStuff
-        where TStuff : IStuff
-    {
-    }
-
-    /// <summary>
     /// stuff after two stuff do n~~~~~~
     /// </summary>
     /// <typeparam name="TStuffLeft"></typeparam>
